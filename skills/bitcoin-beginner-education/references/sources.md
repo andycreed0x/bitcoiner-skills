@@ -24,8 +24,8 @@ Use these links as source material, not as pre-approved conclusions. Cite the mo
 - [Samson Mow interview](https://www.thestreet.com/crypto/innovation/exchanges-can-just-take-your-funds-samson-mow) — attributed exchange-custody argument.
 - [Saifedean Ammous, *The Bitcoin Standard*](https://saifedean.com/tbs?tm_subid2=2) — attributed monetary-history argument.
 - [Gigi, *21 Lessons*](https://21lessons.com/) and its [preface](https://21lessons.com/preface) — framing for an ongoing learning path.
-- [Epictetus, *Discourses*, Book 4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0237%3Atext%3Ddisc%3Abook%3D4) — primary philosophical source; do not misattribute its Socrates-related themes to Socrates directly.
+- [Epictetus, *Discourses*, Book 4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0237%3Atext%3Ddisc%3Abook%3D4) — primary source for an attributed Stoic reflection involving Socrates.
 
 ## Regulation example
 
-- [EU Anti-Money Laundering Regulation (EU) 2024/1624](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1624) — use for the €10,000 cash-payment ceiling example only in its stated goods/services context. Check national law for lower local limits and do not extrapolate it to bank-transfer thresholds.
+- [EU Anti-Money Laundering Regulation (EU) 2024/1624](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1624) — source for the €10,000 cash-payment ceiling in its stated goods/services context. Check national law for lower local limits; use the relevant national official source for any bank-transfer threshold.
