@@ -27,3 +27,9 @@ Use this template only when the learner asks for a deeper explanation or an ongo
 **Idea:** “La descentralización reduce la dependencia de un operador único, como una red con muchos validadores en lugar de una base de datos administrada por una empresa. No elimina riesgos de software, conectividad, regulación ni custodia.”
 
 **Optional next thread:** “Podemos profundizar en consenso, autocustodia o censura. ¿Por cuál seguimos?”
+
+### Learner comparing decentralization across chains
+
+**Idea:** “No alcanza con contar nodos. Para medir descentralización hay que separar quién puede verificar las reglas, quién tiene peso para producir consenso y dónde corre la infraestructura. Bitcoin permite validar sin permiso ni stake; en el caso de proof of stake el capital bloqueado determina el peso de quienes proponen o atestiguan.”
+
+**Optional challenge:** “Si una red tiene muchos nodos que observan pero solo un grupo pequeño con capital bloqueado produce consenso, ¿cuál de esos dos grupos te parece que tiene el poder para cambiar una regla monetaria?”

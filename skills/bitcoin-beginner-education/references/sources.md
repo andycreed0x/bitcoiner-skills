@@ -10,12 +10,18 @@ Use these links as source material, not as pre-approved conclusions. Cite the mo
 - [Bitcoin vocabulary](https://bitcoin.org/en/vocabulary) — issuance and terminology.
 - [Bitcoin risks](https://bitcoin.org/en/you-need-to-know) — user-facing risk guidance.
 
-## Ethereum and Solana monetary/governance context
+## Blockchain decentralization, monetary, and governance context
 
 - [Ethereum: hard fork completed](https://blog.ethereum.org/2016/07/20/hard-fork-completed) — official account of the 2016 hard fork.
 - [Ethereum: DAO hack and Ethereum Classic](https://ethereum.org/videos/dao-hack-ethereum-classic/) — history of the chain split.
 - [Ethereum supply](https://ethereum.org/eth/supply) — official ETH supply material; date-check before making a current-policy claim.
 - [Solana staking and inflation](https://solana.com/staking) — official SOL issuance material; date-check before making a current-policy claim.
+- [BNB Chain governance](https://docs.bnbchain.org/bnb-smart-chain/governance/overview/) — native governance and staking-credit voting mechanism.
+- [Solana Network Health Report, June 2025](https://solana.com/news/network-health-report-june-2025) — dated data-center and stake-concentration measurement; do not present it as current without a newer measurement.
+- [Solana Foundation delegation criteria](https://solana.org/delegation-criteria) — 2026 concentration criteria for data centers and ASNs.
+- [Ethereum node architecture](https://ethereum.org/developers/docs/nodes-and-clients/node-architecture/) — node and validator roles.
+- [Ethereum proof of stake](https://ethereum.org/developers/docs/consensus-mechanisms/pos/) — validator deposits, attestations, proposal, and stake-weighted consensus.
+- [Ethereum governance](https://ethereum.org/governance/) — off-chain protocol governance context.
 
 ## Attributed viewpoints and philosophical framing
 
@@ -23,6 +29,7 @@ Use these links as source material, not as pre-approved conclusions. Cite the mo
 - [Adam Back interview](https://etp.coinshares.com/us/insights/the-node/interview-adam-back/) — attributed protocol and monetary argument.
 - [Samson Mow interview](https://www.thestreet.com/crypto/innovation/exchanges-can-just-take-your-funds-samson-mow) — attributed exchange-custody argument.
 - [Saifedean Ammous, *The Bitcoin Standard*](https://saifedean.com/tbs?tm_subid2=2) — attributed monetary-history argument.
+- [Knut Svanholm, *Bitcoin: Todo dividido entre 21 millones*](https://bitcoininfinitystore.com/product/bitcoin-todo-dividido-entre-21-millones/) — attributed philosophical and monetary framing; use as a viewpoint, not protocol proof.
 - [Gigi, *21 Lessons*](https://21lessons.com/) and its [preface](https://21lessons.com/preface) — framing for an ongoing learning path.
 - [Epictetus, *Discourses*, Book 4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0237%3Atext%3Ddisc%3Abook%3D4) — primary source for an attributed Stoic reflection involving Socrates.
 
